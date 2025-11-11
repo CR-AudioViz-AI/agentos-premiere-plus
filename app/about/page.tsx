@@ -38,14 +38,13 @@ export default function About() {
                 Co-Founder & Licensed Real Estate Agent
               </p>
               <p className="text-gray-600 mb-4">
-                With over 15 years in Southwest Florida real estate, Tony brings unparalleled 
-                market knowledge and negotiation expertise to every transaction. His background 
-                in finance and investment gives clients a strategic advantage in today's market.
+                Tony grew up in Cincinnati, OH, graduated from Heidelberg University, and moved to Fort Myers in 2005. 
+                He transitioned from mortgage lending to real estate and has lived in Lehigh Acres, Fort Myers, Bonita Springs, 
+                and Naples. Known for strong negotiation skills and deep market knowledge.
               </p>
               <p className="text-gray-600">
-                Tony specializes in waterfront properties and luxury homes, helping clients 
-                find their dream coastal lifestyle. His dedication to client success and 
-                market insight have resulted in over $100M in closed transactions.
+                Tony specializes in waterfront properties and luxury homes, helping clients find their dream coastal lifestyle. 
+                His background in finance and investment gives clients a strategic advantage in today's market.
               </p>
             </div>
 
@@ -66,15 +65,13 @@ export default function About() {
                 Co-Founder & Licensed Real Estate Agent
               </p>
               <p className="text-gray-600 mb-4">
-                Laura's passion for real estate and interior design creates a unique 
-                perspective that helps clients see the full potential of every property. 
-                Her attention to detail and creative vision have helped countless families 
-                find their perfect home.
+                Born and raised in Naples, FL. Attended Lake Park Elementary, Gulfview Middle, and Naples High School. 
+                Worked in hospitality for 9+ years before becoming a realtor. Passionate about helping locals and newcomers 
+                alike find their dream home in Southwest Florida.
               </p>
               <p className="text-gray-600">
-                Specializing in family homes and first-time buyers, Laura's warm approach 
-                and comprehensive market knowledge make the home buying process smooth and 
-                enjoyable. She's committed to making your real estate dreams a reality.
+                Specializing in family homes and first-time buyers, Laura's warm approach and comprehensive market knowledge 
+                make the home buying process smooth and enjoyable. She's committed to making your real estate dreams a reality.
               </p>
             </div>
           </div>
